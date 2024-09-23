@@ -25,18 +25,6 @@
       "id": 17806751
     },
     {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
-      "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
-      },
-      "id": 98443197
-    },
-    {
       "cityName": "Urrea de Gaen",
       "country": "Spain",
       "emoji": "🇪🇸",
@@ -47,42 +35,6 @@
         "lng": "-0.46142578125000006"
       },
       "id": 98443198
-    },
-    {
-      "cityName": "Ossa de Montiel",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-09-23T08:49:31.704Z",
-      "notes": "",
-      "position": {
-        "lat": "39.027718840211605",
-        "lng": "-2.7246093750000004"
-      },
-      "id": 98443199
-    },
-    {
-      "cityName": "La Guijarrosa",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-09-23T08:50:54.009Z",
-      "notes": "",
-      "position": {
-        "lat": "37.61423141542417",
-        "lng": "-4.899902343750001"
-      },
-      "id": 98443200
-    },
-    {
-      "cityName": "Amayuelas de Arriba",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-09-23T08:52:25.952Z",
-      "notes": "",
-      "position": {
-        "lat": "42.22851735620852",
-        "lng": "-4.504394531250001"
-      },
-      "id": 98443201
     }
   ]
 }
